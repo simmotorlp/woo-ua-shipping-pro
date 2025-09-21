@@ -3,7 +3,7 @@
  * Plugin Name: UA Shipping Pro
  * Description: Checkout enhancements for Ukrainian carriers in WooCommerce.
  * Version: 1.0.0
- * Author: UA Shipping Pro Team
+ * Author: simmotorlp
  * Text Domain: woo-ua-shipping-pro
  * Domain Path: /languages
  * Requires at least: 6.5
