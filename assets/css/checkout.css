@@ -1,0 +1,14 @@
+.ua-shipping-city select,
+.ua-shipping-warehouse select {
+    width: 100%;
+}
+
+.ua-shipping-enhanced {
+    width: 100%;
+}
+
+.ua-shipping-carrier-notice {
+    margin-top: 4px;
+    font-size: 0.9em;
+    color: #8a6534;
+}
